@@ -1,5 +1,5 @@
 ### Kodluyoruz Front-end Bootstrap Demo
 
--30 dakika'da yapıldı
+-30 dakikada yapıldı. Aşağıdaki gif'ten sonucu görebilirsiniz. 
 
-![](/gif/bootstrap-demo-1.gif)
+![gif](/gif/bootstrap-demo-1.gif)
